@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [Table Rate Shipping PRO by JEM]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [Table Rate Shipping PRO by JEM]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and Woocommerce Table Rate Shipping PRO by JEM.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and Woocommerce Table Rate Shipping PRO by JEM.
+ * Author:          Kadence WP
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-compat-87836
  * Domain Path:     /languages
  * Version:         0.1.0
